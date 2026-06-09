@@ -1,0 +1,25 @@
+src/scanner.ts
+  h_a4834234958a5d 227,239,391,411,581,770,775,811,824,826,929,953,976,1057,1059,1112,1117,1245
+  s_1fe22c746a0106::t_e6d10e7f00c3c0 708
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.6",
+  "base_commit_sha": "f1aecba3835dcfd3f232d9b7f474ba9db9ecd868",
+  "prompts": {},
+  "humans": {
+    "h_a4834234958a5d": {
+      "author": "Jostein Austvik Jacobsen <jostein.jacobsen@nb.no>"
+    }
+  },
+  "sessions": {
+    "s_1fe22c746a0106": {
+      "agent_id": {
+        "tool": "github-copilot",
+        "id": "14253d14-f030-43ba-b27d-1891512e42c5",
+        "model": "gpt-5.3-codex"
+      },
+      "human_author": "Jostein Austvik Jacobsen <jostein.jacobsen@nb.no>"
+    }
+  }
+}
