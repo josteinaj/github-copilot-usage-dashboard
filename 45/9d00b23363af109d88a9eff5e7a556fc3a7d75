@@ -1,0 +1,14 @@
+src/scanner.ts
+  h_a4834234958a5d 574-604
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.6",
+  "base_commit_sha": "459d00b23363af109d88a9eff5e7a556fc3a7d75",
+  "prompts": {},
+  "humans": {
+    "h_a4834234958a5d": {
+      "author": "Jostein Austvik Jacobsen <jostein.jacobsen@nb.no>"
+    }
+  }
+}
