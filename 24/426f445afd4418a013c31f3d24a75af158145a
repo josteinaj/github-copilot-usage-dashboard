@@ -1,0 +1,14 @@
+src/scanner.ts
+  h_a4834234958a5d 200,214,324,336,473,636,641,675,690,692,777,792,805,877,879,926,930,1048
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.6",
+  "base_commit_sha": "24426f445afd4418a013c31f3d24a75af158145a",
+  "prompts": {},
+  "humans": {
+    "h_a4834234958a5d": {
+      "author": "Jostein Austvik Jacobsen <jostein.jacobsen@nb.no>"
+    }
+  }
+}
